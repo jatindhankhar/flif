@@ -5,7 +5,6 @@ require 'jwt'
 require 'data_mapper'
 require 'giphy'
 require_relative 'launcher.rb'
-require 'byebug'
 
 $FLIF_APP_ID = ENV['FLIF_APP_ID']
 
