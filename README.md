@@ -1,4 +1,4 @@
-# Flif (Flock + Gifs)
+# Flif (Flock + Gifs (via [Giphy](http://giphy.com/) )
 
 Gifs on smoothies (because steroids are bad ) :)
 
